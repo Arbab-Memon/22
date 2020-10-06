@@ -577,6 +577,5 @@ def action():
     raw_input('\n[\x1b[1;96mPRESS ENTER TO GO BACK]')
     os.system('python2 .README.md')
  
- 
-if __name__ == '__main__':
-    menu() 
+ if __name__ == '__main__':
+    menu()
